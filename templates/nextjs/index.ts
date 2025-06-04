@@ -1,0 +1,1 @@
+const NEXT_JS = "NEXT JS CONFIG";
